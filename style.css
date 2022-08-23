@@ -1055,3 +1055,8 @@ h4 {
     font-weight: bold;
     font-style: italic;
 }
+
+.portfolio__title-h2{
+    max-width: 42rem;
+    margin:auto;
+}
